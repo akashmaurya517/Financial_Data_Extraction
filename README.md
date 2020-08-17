@@ -146,3 +146,10 @@ Highlighted text on the image is required to be extracted
 
 ## Please note, data only for year 2019 is to be extracted.
 
+# How to use this repo?
+
+	1. clone download the repo.
+	2. extract it.
+	3. install all the dependencies if programm not run.
+	4. run the file finalSOLUTION.py 
+	other .ipynb files are given for developement purpose
